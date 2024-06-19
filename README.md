@@ -27,8 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <svg aria-label="Vercel logomark" height="22" role="img" style="width:auto;overflow:visible" viewBox="0 0 74 64"><path d="M37.5896 0.25L74.5396       
+  <a href="https://nextjs.org/" target="_blank">
+      <svg aria-label="Vercel logomark" height="22" role="img" style="width:auto;overflow:visible" viewBox="0 0 74 64"><path d="M37.5896 0.25L74.5396       
    64.25H0.639648L37.5896 0.25Z" fill="var(--geist-foreground)"></path></svg>
+  </a>
 </div>
 
 ###
